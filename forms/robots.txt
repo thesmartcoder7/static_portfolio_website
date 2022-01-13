@@ -1,0 +1,7 @@
+
+
+Sitemap: https://www.hastingsmumo.co.ke/sitemap.xml
+
+
+User-agent: *
+Disallow: /*?C=*
